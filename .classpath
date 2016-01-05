@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="GFG/src"/>
+	<classpathentry kind="src" path="HCL/src"/>
+	<classpathentry kind="src" path="HackerEarth/src"/>
+	<classpathentry kind="src" path="MMT/src"/>
+	<classpathentry kind="src" path="Serching/src"/>
+	<classpathentry kind="src" path="Sorting/src"/>
+	<classpathentry kind="src" path="T1/src"/>
+	<classpathentry kind="src" path="T2/src"/>
+	<classpathentry kind="src" path="T3/src"/>
+	<classpathentry kind="src" path="Test/src"/>
+	<classpathentry kind="src" path="Thread/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
